@@ -1,0 +1,4 @@
+Example for DROP Box API to connect from android
+
+The code requires an app to be created on DROPBOX and the app key and app secret key to be changed in the code
+You need to change the same in the main class as well as in manifest file.
